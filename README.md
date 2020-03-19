@@ -1,4 +1,4 @@
-#Laboratorul 4
+# Laboratorul 4
 
 Echipa:
 Astrid Mocanu,Teodor Ciripescu,Paul Scutaru,Artiom Pogonet,Codrin Donciu,Dominte Florin
@@ -39,3 +39,8 @@ S-au ocupat predominant de
 * Reverse Engineering:Codrin Donciu,Dominte Florin + Teodor Ciripescu
 * Problemele de ordin logistic aparute pe parcursul temei:Ciripescu Teodor,Paul Scutaru,Artiom Pogonet
 * Impartirea taskurilor pe persoane,verificarea tuturor echipelor pentru a nu exista discordante pe parcurs, verificarea corectitudinii fiecarui task: Astrid Mocanu
+
+Imagini Trello:
+![tasks1](https://github.com/teodorciripescu/IngineriaProgramarii/blob/master/trello/tasks1.png)
+![tasks2](https://github.com/teodorciripescu/IngineriaProgramarii/blob/master/trello/tasks2.png)
+![tasks3](https://github.com/teodorciripescu/IngineriaProgramarii/blob/master/trello/tasks3.png)
